@@ -6,7 +6,9 @@ html {
     background-image: url("topbg.png");
     background-repeat: no-repeat;
     background-attachment: fixed; 
-  background-size: 100% 100%;
+   background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
 }
 
 .note{
