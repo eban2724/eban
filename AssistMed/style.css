@@ -4,7 +4,6 @@ html {
 
 .first{
     background-image: url("topbg.png");
-    background-repeat: no-repeat;
     background-attachment: fixed; 
   background-size: cover;
   background-position: center center;
