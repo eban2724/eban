@@ -4,18 +4,16 @@ html {
 
 .first{
     background-image: url("topbg.png");
+    background-repeat: no-repeat;
     background-attachment: fixed; 
-   background-size: cover;
+
+  background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
 
 .note{
     padding-top: 0;
-}
-
-#Smaller{
-    font-size:5px;
 }
 
 .intro {
