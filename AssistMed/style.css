@@ -359,7 +359,7 @@ iframe{
 }
 
 @media only screen and (max-width: 375px ){
-    .dropbtn1{
+     .dropdown1 .dropbtn1 {
         font-size: small;
     }
 }
